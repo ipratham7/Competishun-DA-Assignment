@@ -1,7 +1,7 @@
 # Competishun-DA-Assignment
  The analysis focuses on various aspects of leads and their journey in the customer acquisition flow. The insights derived from the data aim to provide recommendations for improving marketing strategies and target areas.
 
- # All about leads:
+ # All About Leads:
 
  ![image](https://github.com/ipratham7/Competishun-DA-Assignment/assets/64377030/9491dbc4-cf2b-4a7b-aea5-483b9f8f8508)
 
@@ -12,7 +12,7 @@
 5. City Distribution: The top cities generating the most leads are Visakhapatnam (21%), Hyderabad (20%), Kochi (18%), and Bengaluru (14%).
 Gender-wise Leads: Female leads account for 55% of the total, while males represent 44%.
 
-# All about demo watched:
+# All About Demo Watched:
 
 ![image](https://github.com/ipratham7/Competishun-DA-Assignment/assets/64377030/63e18455-5753-45dc-b069-0015230b9870)
 
@@ -20,7 +20,7 @@ Gender-wise Leads: Female leads account for 55% of the total, while males repres
 2. Source Distribution: Email marketing (23%), SEO (22%), and social media (21%) are the top sources for users who watched the demo.
 3. City: Hyderabad (20%), Visakhapatnam (20%), Bengaluru (16%), and Kochi (16%) are the most reliable cities for lead engagement with demos.
 
-# All about interaction:
+# All About Interaction:
 
 ![image](https://github.com/ipratham7/Competishun-DA-Assignment/assets/64377030/0f2568c9-2136-48f4-8d6b-194569420e55)
 
@@ -51,14 +51,14 @@ These segments show promising conversion rates, suggesting the need for targeted
  SEO: 21% of conversions come from this source.
 Investing in additional advertisements and marketing strategies for these sources can contribute to better conversion rates, increased business growth, and the generation of more leads.
 
-# All about reasons:
+# All About Reasons:
 
 ![image](https://github.com/ipratham7/Competishun-DA-Assignment/assets/64377030/b3e54846-2ae7-484b-8edc-8255adb649ce)
 
 
 The main reasons for not getting enrolled are affordability (39%) and the desire for offline classes (26%).
 
-# All about managers' performances:
+# All About Managers' Performances:
 
 ![image](https://github.com/ipratham7/Competishun-DA-Assignment/assets/64377030/efee9187-6ffd-4c87-8717-5624362d9069)
 
