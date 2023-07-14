@@ -3,7 +3,8 @@
 
  # All About Leads:
 
- ![image](https://github.com/ipratham7/Competishun-DA-Assignment/assets/64377030/9491dbc4-cf2b-4a7b-aea5-483b9f8f8508)
+ ![image](https://github.com/ipratham7/Competishun-DA-Assignment/assets/64377030/b8d49ff7-645d-472e-a12b-d2f2d7b7ad7c)
+
 
 1. Occupation: The majority of leads come from B.Tech (38%), followed by those looking for jobs (32%) and degree holders (11%). Targeting B.Tech, job seekers, and degree holders as primary occupations can yield better results.
 2. Parent Occupation: The most common parent occupations among leads are government employees (35%), business owners (22%), IT employees (19%), and lawyers (12%).
@@ -14,7 +15,8 @@ Gender-wise Leads: Female leads account for 55% of the total, while males repres
 
 # All About Demo Watched:
 
-![image](https://github.com/ipratham7/Competishun-DA-Assignment/assets/64377030/63e18455-5753-45dc-b069-0015230b9870)
+![image](https://github.com/ipratham7/Competishun-DA-Assignment/assets/64377030/96531522-5f3f-4cec-8c70-93b5be4ad9c3)
+
 
 1. Occupation-wise: Among those who watched the demo, B.Tech (36%), job seekers (35%), and degree holders (23%) are the major occupations. These segments are more reliable for taking actions.
 2. Source Distribution: Email marketing (23%), SEO (22%), and social media (21%) are the top sources for users who watched the demo.
@@ -22,7 +24,7 @@ Gender-wise Leads: Female leads account for 55% of the total, while males repres
 
 # All About Interaction:
 
-![image](https://github.com/ipratham7/Competishun-DA-Assignment/assets/64377030/0f2568c9-2136-48f4-8d6b-194569420e55)
+![image](https://github.com/ipratham7/Competishun-DA-Assignment/assets/64377030/a812a150-990e-4e37-bdf5-e9d6ebe82b8c)
 
 Out of 100% leads, the success rates are as follows:
   Leads successful: 67%
@@ -53,15 +55,14 @@ Investing in additional advertisements and marketing strategies for these source
 
 # All About Reasons:
 
-![image](https://github.com/ipratham7/Competishun-DA-Assignment/assets/64377030/b3e54846-2ae7-484b-8edc-8255adb649ce)
+![image](https://github.com/ipratham7/Competishun-DA-Assignment/assets/64377030/2c4089a5-fde5-4a53-a71a-3d9fb50257ba)
 
 
 The main reasons for not getting enrolled are affordability (39%) and the desire for offline classes (26%).
 
 # All About Managers' Performances:
 
-![image](https://github.com/ipratham7/Competishun-DA-Assignment/assets/64377030/efee9187-6ffd-4c87-8717-5624362d9069)
-
+![image](https://github.com/ipratham7/Competishun-DA-Assignment/assets/64377030/31f657b9-dcc3-4b6a-b343-958767bc51d9)
 
 1. Senior Sales Managers: SNR501MG (35%) and SNR504MG (26%) are the top-performing senior sales managers in terms of conversions.
 2. Junior Sales Managers: JNR1016MG (15%) and JNR1002MG (13%) are the top-performing junior sales managers in terms of conversions.
