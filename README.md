@@ -6,7 +6,7 @@ Assume you are a Data Analyst in an EdTech company. Your company is focused on a
 Therefore, you have been asked to analyse various aspects of customer acquisition to see the status of new users’ growth in your company. The insights you discover will help your business team in designing a better marketing strategy for your company.
 
 # Datasets :
-  1. Lead Basic Details : Contains details of the leads.
+  	 1. Lead Basic Details : Contains details of the leads.
 	 2. Lead Demo Watched  Details : Contains the details of the demo session watched by the leads.
 	 3. Lead Intreaction Details : Contains the details of call interactions of junior sales managers with the leads.
 	 4. Lead Reasons For Not Interest : Contains the details of the reasons given by the leads for their lack of interest.
