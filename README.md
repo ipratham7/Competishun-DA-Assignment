@@ -90,7 +90,20 @@ The main reasons for not getting enrolled are affordability (39%) and the desire
 1. Senior Sales Managers: SNR501MG (35%) and SNR504MG (26%) are the top-performing senior sales managers in terms of conversions.
 2. Junior Sales Managers: JNR1016MG (15%) and JNR1002MG (13%) are the top-performing junior sales managers in terms of conversions.
    
+# Recommendation: 
+
+1. **Improve How We Convince Potential Customers:** There is a big difference between the number of people **interested** to taking it into **consideration** . We need to work on better ways to persuade potential customers to choose us.
+
+2. **Target Specific Groups:** People with **B.Tech degrees**, **job seekers**,**Degree**  are more likely to sign up. Let's focus our marketing efforts on reaching out to them more effectively.
+
+3. **Reach Out to Business Owners and Government Employees:** By Parental occupation these groups are also more likely to become customers. Let's make sure we target them in our marketing campaigns.
+
+4. **Pay Attention to Certain Cities:** Some cities, like **Bengaluru**, **Visakhapatnam**, and **Hyderabad**, have higher sign-up rates. We should concentrate more on these areas.
+
+5. **Marketing:** **Email Marketing**,**Social Media** and **SEO** are working well in converting leads to customers. We should invest more in these channels.
+
+By following these simple recommendations, we can attract more customers, improve our marketing efforts, and grow our company.
+   
 # Additional Files:
 The assignment_submission.pbix file contains the Power BI report with visualizations and data analysis.
-The dataset.csv file contains the original dataset used for the analysis.
 Please refer to the assignment_submission.pbix file for detailed visualizations and insights derived from the dataset.
