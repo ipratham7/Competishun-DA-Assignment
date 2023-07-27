@@ -5,23 +5,6 @@
 Assume you are a Data Analyst in an EdTech company. Your company is focused on accelerating its growth by increasing the number of enrolled users.
 Therefore, you have been asked to analyse various aspects of customer acquisition to see the status of new users’ growth in your company. The insights you discover will help your business team in designing a better marketing strategy for your company.
 
-# Expected Outcome
-
-**Objective:**
-To analyze customer acquisition data and provide meaningful insights to help achieve business goals.
-
-a. **Lead Journey Understanding:**
-   - Metric: Lead progression through stages (Lead, Awareness, Consideration, Conversion).
-   - Question: Where do leads drop off the most? How can we improve the consideration stage to boost conversions?
-
-b. **Team Performance Evaluation:**
-   - Metric: Conversion rates of individual sales managers.
-   - Question: Which sales managers perform the best in converting leads? How can we support underperforming managers?
-
-c. **Manager Target Areas:**
-   - Metric: Conversion rates by parent occupation and lead source.
-   - Question: Which parent occupation and lead source yield the highest conversions? How can managers focus their efforts?
-
 # Datasets :
   1. Lead Basic Details : Contains details of the leads.
 	 2. Lead Demo Watched  Details : Contains the details of the demo session watched by the leads.
