@@ -6,15 +6,21 @@ Assume you are a Data Analyst in an EdTech company. Your company is focused on a
 Therefore, you have been asked to analyse various aspects of customer acquisition to see the status of new users’ growth in your company. The insights you discover will help your business team in designing a better marketing strategy for your company.
 
 # Expected Outcome
-1. Brainstorm and identify the right metrics and frame proper questions for analysis. Your analysis should help your :
-    a. Business team to understand the lead's journey and stages with scope for improvement
-    b. Business heads to understand their team performance
-    c. Managers to understand their target areas
-2. In case you identify any outliers in the data set, make a note of them and exclude them from your analysis.
-3. Build the best suitable dashboard presenting your insights.
-   
-Your recommendations must be backed by data insights and professional visualizations to help your business team design road maps, strategies, and action items to achieve their goals.
-We are looking for in-depth analysis of the data and highly meaningful outcomes from the dashboard.
+**Objective:**
+To analyze customer acquisition data and provide meaningful insights to help achieve business goals.
+
+**Metrics & Questions for Analysis:**
+a. **Lead Journey Understanding:**
+   - Metric: Lead progression through stages (Lead, Awareness, Consideration, Conversion).
+   - Question: Where do leads drop off the most? How can we improve the consideration stage to boost conversions?
+
+b. **Team Performance Evaluation:**
+   - Metric: Conversion rates of individual sales managers.
+   - Question: Which sales managers perform the best in converting leads? How can we support underperforming managers?
+
+c. **Manager Target Areas:**
+   - Metric: Conversion rates by parent occupation and lead source.
+   - Question: Which parent occupation and lead source yield the highest conversions? How can managers focus their efforts?
 
 # Datasets :
   1. Lead Basic Details : Contains details of the leads.
