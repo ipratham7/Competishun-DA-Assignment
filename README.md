@@ -7,12 +7,15 @@ Therefore, you have been asked to analyse various aspects of customer acquisitio
 
 # Outcome :
 a. Lead Journey Understanding:
+
 	Metric: Lead progression through stages (Lead, Awareness, Consideration, Conversion).
 	Question: Where do leads drop off the most? How can we improve the consideration stage to boost conversions?
 b. Team Performance Evaluation:
+
 	Metric: Conversion rates of individual sales managers.
 	Question: Which sales managers perform the best in converting leads? How can we support underperforming managers?
 c. Manager Target Areas:
+
 	Metric: Conversion rates by parent occupation and lead source.
 	Question: Which parent occupation and lead source yield the highest conversions? How can managers focus their efforts?
 
