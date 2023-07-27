@@ -1,6 +1,21 @@
 # Competishun-DA-Assignment
  The analysis focuses on various aspects of leads and their journey in the customer acquisition flow. The insights derived from the data aim to provide recommendations for improving marketing strategies and target areas.
 
+ # Task
+Assume you are a Data Analyst in an EdTech company. Your company is focused on accelerating its growth by increasing the number of enrolled users.
+Therefore, you have been asked to analyse various aspects of customer acquisition to see the status of new users’ growth in your company. The insights you discover will help your business team in designing a better marketing strategy for your company.
+
+# Expected Outcome
+1. Brainstorm and identify the right metrics and frame proper questions for analysis. Your analysis should help your :
+    a. Business team to understand the lead's journey and stages with scope for improvement
+    b. Business heads to understand their team performance
+    c. Managers to understand their target areas
+2. In case you identify any outliers in the data set, make a note of them and exclude them from your analysis.
+3. Build the best suitable dashboard presenting your insights.
+   
+Your recommendations must be backed by data insights and professional visualizations to help your business team design road maps, strategies, and action items to achieve their goals.
+We are looking for in-depth analysis of the data and highly meaningful outcomes from the dashboard.
+
  # All About Leads:
 
  ![image](https://github.com/ipratham7/Competishun-DA-Assignment/assets/64377030/b8d49ff7-645d-472e-a12b-d2f2d7b7ad7c)
