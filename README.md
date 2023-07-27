@@ -16,6 +16,14 @@ Therefore, you have been asked to analyse various aspects of customer acquisitio
 Your recommendations must be backed by data insights and professional visualizations to help your business team design road maps, strategies, and action items to achieve their goals.
 We are looking for in-depth analysis of the data and highly meaningful outcomes from the dashboard.
 
+# Datasets :
+  1. Lead Basic Details : Contains details of the leads.
+	 2. Lead Demo Watched  Details : Contains the details of the demo session watched by the leads.
+	 3. Lead Intreaction Details : Contains the details of call interactions of junior sales managers with the leads.
+	 4. Lead Reasons For Not Interest : Contains the details of the reasons given by the leads for their lack of interest.
+	 5. Sales Manager Assigned Lead Details : Contains the details of the senior and junior sales managers and their assigned leads.
+
+
  # All About Leads:
 
  ![image](https://github.com/ipratham7/Competishun-DA-Assignment/assets/64377030/b8d49ff7-645d-472e-a12b-d2f2d7b7ad7c)
