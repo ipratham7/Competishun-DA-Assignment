@@ -2,9 +2,16 @@
  The analysis focuses on various aspects of leads and their journey in the customer acquisition flow. The insights derived from the data aim to provide recommendations for improving marketing strategies and target areas.
 
  # Task
-Assume you are a Data Analyst in an EdTech company. Your company is focused on accelerating its growth by increasing the number of enrolled users.
-Therefore, you have been asked to analyse various aspects of customer acquisition to see the status of new users’ growth in your company. The insights you discover will help your business team in designing a better marketing strategy for your company.
+Assume you are a Data Analyst in an EdTech company. Your company is focused on accelerating its growth by **increasing the number of enrolled users**.
+Therefore, you have been asked to analyse various aspects of **customer acquisition** to see the status of new users’ growth in your company. The insights you discover will help your business team in designing a **better marketing strategy** for your company.
 
+# Datasets :
+  	 1. Lead Basic Details : Contains details of the leads.
+	 2. Lead Demo Watched  Details : Contains the details of the demo session watched by the leads.
+	 3. Lead Intreaction Details : Contains the details of call interactions of junior sales managers with the leads.
+	 4. Lead Reasons For Not Interest : Contains the details of the reasons given by the leads for their lack of interest.
+	 5. Sales Manager Assigned Lead Details : Contains the details of the senior and junior sales managers and their assigned leads.
+  
 # Outcome :
 a. Lead Journey Understanding:
 
@@ -13,18 +20,15 @@ a. Lead Journey Understanding:
 b. Team Performance Evaluation:
 
 	Metric: Conversion rates of individual sales managers.
-	Question: Which sales managers perform the best in converting leads? How can we support underperforming managers?
+	Question: Which sales managers perform the best in converting leads?
 c. Manager Target Areas:
 
 	Metric: Conversion rates by parent occupation and lead source.
 	Question: Which parent occupation and lead source yield the highest conversions? How can managers focus their efforts?
 
-# Datasets :
-  	 1. Lead Basic Details : Contains details of the leads.
-	 2. Lead Demo Watched  Details : Contains the details of the demo session watched by the leads.
-	 3. Lead Intreaction Details : Contains the details of call interactions of junior sales managers with the leads.
-	 4. Lead Reasons For Not Interest : Contains the details of the reasons given by the leads for their lack of interest.
-	 5. Sales Manager Assigned Lead Details : Contains the details of the senior and junior sales managers and their assigned leads.
+
+# WorkFlow:
+Data Analysis Workflow: Clean dataset --> Remove outliers --> Import into Power BI --> create separate dashboards for in-depth analysis of each dataset
 
 
  # All About Leads:
