@@ -6,10 +6,9 @@ Assume you are a Data Analyst in an EdTech company. Your company is focused on a
 Therefore, you have been asked to analyse various aspects of customer acquisition to see the status of new users’ growth in your company. The insights you discover will help your business team in designing a better marketing strategy for your company.
 
 # Expected Outcome
+
 **Objective:**
 To analyze customer acquisition data and provide meaningful insights to help achieve business goals.
-
-**Metrics & Questions for Analysis:**
 
 a. **Lead Journey Understanding:**
    - Metric: Lead progression through stages (Lead, Awareness, Consideration, Conversion).
