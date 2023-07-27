@@ -10,6 +10,7 @@ Therefore, you have been asked to analyse various aspects of customer acquisitio
 To analyze customer acquisition data and provide meaningful insights to help achieve business goals.
 
 **Metrics & Questions for Analysis:**
+
 a. **Lead Journey Understanding:**
    - Metric: Lead progression through stages (Lead, Awareness, Consideration, Conversion).
    - Question: Where do leads drop off the most? How can we improve the consideration stage to boost conversions?
