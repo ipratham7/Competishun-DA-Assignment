@@ -1,4 +1,4 @@
-# Competishun-DA-Assignment
+# Lead Conversion in EdTech Company
  The analysis focuses on various aspects of leads and their journey in the customer acquisition flow. The insights derived from the data aim to provide recommendations for improving marketing strategies and target areas.
 
  # Task
